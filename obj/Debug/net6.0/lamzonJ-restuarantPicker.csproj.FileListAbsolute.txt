@@ -1,0 +1,15 @@
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/bin/Debug/net6.0/lamzonJ-restuarantPicker
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/bin/Debug/net6.0/lamzonJ-restuarantPicker.deps.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/bin/Debug/net6.0/lamzonJ-restuarantPicker.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/bin/Debug/net6.0/lamzonJ-restuarantPicker.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/bin/Debug/net6.0/lamzonJ-restuarantPicker.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/refint/lamzonJ-restuarantPicker.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/lamzonJ-restuarantPicker.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-restuarantPicker/obj/Debug/net6.0/ref/lamzonJ-restuarantPicker.dll
