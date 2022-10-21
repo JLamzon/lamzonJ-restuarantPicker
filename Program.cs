@@ -2,6 +2,7 @@
 //10/20/22
 //Restuarant Picker
 //Randomize restuarants by selecting a type or random all
+//peer review:
 
 Console.Clear();
 
@@ -311,11 +312,6 @@ while (playAgain != "no")
         }
 
     }
-    //     else if (validEntry == true || userPick == string.Empty)
-    // {
-    //     Console.WriteLine("\ntry again with correct input...\n");
-    // }
-
     Console.WriteLine("\nPress any key to try again or type no to exit...");
     playAgain = Console.ReadLine();
 }
